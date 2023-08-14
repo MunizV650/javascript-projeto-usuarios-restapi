@@ -4,6 +4,7 @@
 
 API desenvolvida em Node.js para o Curso Completo de JavaScript na Udemy.com.
 
+### Projeto Vulpo - Banco de Dados instalado aqui 
 ### Projeto Vulpo instaladno o express: npm install express --save
 ### Projeto Vulpo instaladno o nodemon: npm install nodemon -g
 ### Projeto Vulpo para executar no gitbash nodemon index
